@@ -112,6 +112,24 @@ a:hover {
   margin-left: 30px;
 }
 
+.ppt-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.word-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.office-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
